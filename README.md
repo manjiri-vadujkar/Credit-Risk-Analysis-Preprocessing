@@ -25,7 +25,8 @@ This project is part of my Data Analyst portfolio and demonstrates my ability to
 
 2. **Data Files:**  
    - `loan_data.csv` – Original dataset.  
-   - `loan_data_preprocessed.csv` – Fully processed and cleaned dataset ready for analysis.  
+   - `loan_data_preprocessed.csv` – Fully processed and cleaned dataset ready for analysis.
+   - `EUR-USD.csv` - Currency Exchange Rates
 
 3. **README.md:**  
    - Project overview and instructions.  
