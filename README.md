@@ -21,11 +21,11 @@ This project is part of my Data Analyst portfolio and demonstrates my ability to
 
 #### Repository Contents  
 1. **Notebook:**  
-   - `Credit_Risk_Analysis_Preprocessing.ipynb` – Main notebook containing the data preprocessing steps and detailed explanations.  
+   - `credit-risk-analysis-preprocessing.ipynb` – Main notebook containing the data preprocessing steps and detailed explanations.  
 
 2. **Data Files:**  
-   - `raw_data.csv` – Original dataset.  
-   - `processed_data.csv` – Fully processed and cleaned dataset ready for analysis.  
+   - `loan_data.csv` – Original dataset.  
+   - `loan_data_preprocessed.csv` – Fully processed and cleaned dataset ready for analysis.  
 
 3. **README.md:**  
    - Project overview and instructions.  
@@ -33,9 +33,9 @@ This project is part of my Data Analyst portfolio and demonstrates my ability to
 #### How to Use  
 1. Clone this repository:  
    ```
-   git clone https://github.com/[YourUsername]/Credit-Risk-Preprocessing.git
+   git clone https://github.com/[YourUsername]/Credit-Risk-Analysis-Preprocessing.git
    ```    
-2. Run the notebook `Credit_Risk_Analysis_Preprocessing.ipynb` to replicate the data preprocessing steps.  
+2. Run the notebook `credit-risk-analysis-preprocessing.ipynb` to replicate the data preprocessing steps.  
 
 #### Skills Demonstrated  
 - **Data Cleaning:** Handling missing values, redundancy, and inconsistencies.  
